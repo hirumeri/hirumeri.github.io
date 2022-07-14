@@ -1,1 +1,0 @@
-# hirumeri.github.io
