@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 屋上屋</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on 屋上屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>hirumeri hirumeri はこのブログの著者で、Takuro TANAKA の名でも呼ばれます。 彼は新しいものごとを知ることを好み、そうしてまた新しい景色が見えることに心を躍らせています。 Likes Resume -2017.3 東京大学文学部行動文化学科：学士（文学） 社会学を専攻。文化社会学や知識社会学などに特に強い関心を持ち、卒業論文ではソーシャリー・エンゲイジド・アートについての批評言説を分析した。 -2020.3 東京大学大学院総合文化研究科超域文化科学専攻修士課程：修士（学術） 表象文化論を専攻。修士論文では日本出身の芸術家である荒川修作とそのパートナーであるマドリン・ギンズの作品群を取り上げ、キャリアの初期から晩期に至るまでの作風の変遷と、変遷の中に見られる一貫性について論述した。 2020.4- Software Engineer サーバサイドKotlinをメインで書きつつ、認証・認可や会員管理の領域で修業中。 </description>
+    </item>
+    
+  </channel>
+</rss>
