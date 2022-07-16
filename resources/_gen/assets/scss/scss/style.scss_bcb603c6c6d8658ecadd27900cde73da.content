@@ -226,7 +226,7 @@ ul {
     list-style: decimal; }
 
 .intro {
-  margin-bottom: 60px; }
+  margin-bottom: 120px; }
   .intro h1 {
     font-size: 48px;
     line-height: 56px;

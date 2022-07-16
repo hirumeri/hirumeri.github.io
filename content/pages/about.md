@@ -1,6 +1,7 @@
 ---
 title: 'About'
-image: images/profile.jpg
+image: images/profile.webp
+description: 'About'
 menu:
   main:
     name: "About"
