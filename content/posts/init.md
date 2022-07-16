@@ -13,6 +13,4 @@ draft: false
 
 
 
-
-
-- \(The cover photo is from https://unsplash.com/photos/Ikyeu274Zxc\ .)
+- (The cover photo is from https://unsplash.com/photos/Ikyeu274Zxc .)

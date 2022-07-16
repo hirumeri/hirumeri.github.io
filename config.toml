@@ -19,9 +19,11 @@ paginate = 3
   google_analytics_id = ""
   twitter_handle = "@hirumeri"
 
+  images = "images/ogp.png"
+
   showAuthorOnHomepage = false
   showAuthorOnPosts = false
-  showPostsOnHomepage = false
+  showPostsOnHomepage = true
 
   addFrame = true
   addDot = true
