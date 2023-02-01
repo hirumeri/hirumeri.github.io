@@ -5,8 +5,8 @@
   --base-color: #ffffff;
   --base-offset-color: #eaeaea;
   --highlight-color: {{ .Site.Params.highlightColor | default "#7b16ff" }};
-  --heading-color: #1c1b1d;
-  --text-color: #4e5157;
+  --heading-color: #ea5520;
+  --text-color: #3b5874;
 }
 
 $breakpoints: (
@@ -46,12 +46,12 @@ body {
     min-height: 100vh;
     border: 18px solid var(--highlight-color);
     @include breakpoint('large') {
-      border: 60px solid var(--highlight-color);
+      border: 120px solid var(--highlight-color);
     }
   }
 }
 
 .wrapper {
-  max-width: 1000px;
+  max-width: 600px;
   margin: 0 auto;
 }
