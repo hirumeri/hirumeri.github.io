@@ -7,4 +7,4 @@ draft: true
 ---
 
 
-**in the blue shirt** の新譜『Park With a Pond』と、それにまつわるもろもろ。
+**in the blue shirt** の新譜『Park With a Pond』と, それにまつわるもろもろ. 
