@@ -761,7 +761,7 @@ body {
       body.frame {
         border: 120px solid var(--highlight-color); } }
 .wrapper {
-  max-width: 600px;
+  max-width: 680px;
   margin: 0 auto; }
 
 /*# sourceMappingURL=style.css.map */
