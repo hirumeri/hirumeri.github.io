@@ -1,6 +1,6 @@
 :root {
   --font-family-heading: 'Poppins', sans-serif;
-  --font-family-paragraph: Helvetica, Hiragino Gothic, Yu Gothic, sans-serif;
+  --font-family-paragraph: Hiragino Mincho, Yu Mincho, serif;
   --font-family-mono: monospace;
   --base-color: #ffffff;
   --base-offset-color: #eaeaea;
@@ -129,8 +129,8 @@ ul {
 .content {
   font-size: 18px; }
   .content p {
-    font-size: 18px;
-    line-height: 1.6;
+    font-size: 16px;
+    line-height: 1.8;
     margin: 0;
     padding: 0;
     margin-bottom: 20px; }
