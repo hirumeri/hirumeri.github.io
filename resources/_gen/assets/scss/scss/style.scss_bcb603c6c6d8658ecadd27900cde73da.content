@@ -4,7 +4,7 @@
   --font-family-mono: monospace;
   --base-color: #ffffff;
   --base-offset-color: #eaeaea;
-  --highlight-color: #283b4e;
+  --highlight-color: #5ba89a;
   --heading-color: #ea5520;
   --text-color: #3b5874; }
 
