@@ -1,4 +1,5 @@
-see https://hirumeri.github.io/
+This repository is archivied.
+Instead, check it out https://hirumeri.dev/ .
 
 
 
